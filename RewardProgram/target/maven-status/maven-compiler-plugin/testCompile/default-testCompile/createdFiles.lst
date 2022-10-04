@@ -1,0 +1,5 @@
+com\rewards\program\test\mappers\CustomerMapperTest.class
+com\rewards\program\test\mappers\TransactionMapperTest.class
+com\rewards\program\test\service\RewardsProgramServiceTest.class
+com\rewards\program\test\RewardProgramApplicationTests.class
+com\rewards\program\test\integration\RewardsControllerIntegrationTest.class
